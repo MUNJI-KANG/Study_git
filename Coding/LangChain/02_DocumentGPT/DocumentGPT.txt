@@ -1,0 +1,15 @@
+[Documnet GPT 프로젝트 주제]
+
+- 우리가 데이터를 제공하고 (txt, pdf, docx 등)
+  llm 과 제공된 데이터와 질의 응답할수 있는 챗봇 만들기.
+
+- 지금까지 배운 Streamlit 과 LangChain 기본 복습및 활용
+
+- stuff document chain 적용
+
+- 시간이 많이 걸리는 작업에 대해 cache 해보기
+  - load - split - embed - cache - vectorstore ... <- 매번 시간(비용)이 걸린다.
+  - @st.cache_resource
+
+- LLM 의 응답을 streaming 하여 웹 화면에 표시하기
+  - BaseCallbackHandler 으로 커스텀 CallbackHandler 정의  
