@@ -1,0 +1,19 @@
+iris (붓꽃)품종 분류 + FastAPI 애플리케이션
+
+■ ppt 구글 드라이브
+https://docs.google.com/presentation/d/1CSqKYsdID_Icy4e-jVYzqOePKh-AOLpBWj4qqnYNVnE/edit?usp=drive_link
+
+■jupyter파일
+K:\working_python_lecture\051_머신러닝\ML2018\머신러닝0040 외국어 문장 판별 (KDT2508).ipynb
+
+■데이터셋
+K:\dataset\ML2018\iris\iris.csv
+
+
+■ 저장된 학습 파일
+    모델: model.pkl
+    스케일러: scaler.pkl
+
+■실행 
+uvicorn iris_main:app --reload  
+uvicorn iris_main:app --reload --port 0

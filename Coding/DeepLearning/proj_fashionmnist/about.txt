@@ -1,0 +1,6 @@
+설치 필요
+pip install python-multipart
+pip install tensorflow==2.19.0
+
+
+

@@ -1,0 +1,7 @@
+설치 필요
+pip install python-multipart
+pip install tensorflow==2.19.0
+
+샘플파일 다운로드
+https://www.dropbox.com/scl/fi/swnxia7a6u9lhb51mryth/cifar10.zip?rlkey=1hb32xg9ondhkhfgthrksg4na&st=wgomiqv3&dl=1
+
